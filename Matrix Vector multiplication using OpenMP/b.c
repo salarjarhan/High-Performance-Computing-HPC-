@@ -7,6 +7,7 @@ Run: ./b
 Code was tested using AMD Ryzen7 3700x 8-Core Processor and Ubuntu 20.04 as OS  
 */
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
