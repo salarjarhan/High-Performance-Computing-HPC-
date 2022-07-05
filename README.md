@@ -1,4 +1,4 @@
-# HighPerformanceComputing
+# High Performance Computing
 
 A general introduction to high performance computing (HPC) taught by Prof. Craig Douglas would be exemplified through the several techniques.
 
